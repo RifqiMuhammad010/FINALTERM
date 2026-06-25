@@ -3,9 +3,9 @@
 ## Data Diri
 | Kategori | Detail |
 |---|---|
-| **Nama** | Rafly Fasha Purnomo Putra |
+| **Nama** | Rifqi Muhammmad Harahap |
 | **Kelas** | TK-46-GAB |
-| **NIM** | 1103223050 |
+| **NIM** | 1103223138 |
 
 ---
 
